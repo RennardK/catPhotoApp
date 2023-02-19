@@ -1,0 +1,6 @@
+The html form element has several attributes:
+    1)  action attribute: specifies the location to send the form data for validation after it has been submitted.
+    2)  method attribute: "get || post" ; The form-data can be sent as URL variables (with method="get") or as HTTP post transaction (with method="post").
+    3)  target attribute: "_blank || _self || _parent || _top || framename" ; specifies on what page the form response will be dislayed after submission.
+    4)  autocomplete attribute: "on || off" ;
+    5) novalidate attribute: "novalidate"   ;it's a boolean which when present specifies that the form data should not be  validated on submission

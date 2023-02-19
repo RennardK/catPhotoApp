@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-image: linear-gradient(to right top, #5467bb, #007bc2, #008abc, #0096ad, #259f9c, #2ea1a1, #37a4a6, #3fa6ab, #3ba0c1, #6096cb, #8d88c4, #b179ad);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+    
+h1{
+    color: whitesmoke;
+    text-align: center;
+    text-decoration: none;
+    font-style: normal;
+    border: 1px solid #2ea1a1;
+    margin: 10px auto;
+    padding: 15px;
+}
+.all {
+    background-color: lightgray;
+    width: 50%;
+}
+img {
+    margin: auto;
+}
